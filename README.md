@@ -1,4 +1,5 @@
-## Hello! I'm Cristiano Epifânio. 
+## Hello! I'm Cristiano Epifânio and welcome to my profile.
+here, you'll find my works, I hope you like than. 
 
  <div>
    <a href="https://github.com/cristianoepifanio">
