@@ -15,7 +15,7 @@ here, you'll find my works, I hope you like them.
  
  <br>
  
-  ### My social webs!
+  ### My social media:
  
 <div> 
   
