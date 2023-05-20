@@ -1,6 +1,6 @@
 ## Hello! I'm Cristiano Epifânio and welcome to my profile.
 
-I'm web developer <b>(HTML5, CSS3, Javascript)</b> and <b>Java</b> student.
+I'm web developer <b>(HTML5, CSS3, Javascript, TypeScript, Angular)</b> and <b>Java</b> student.
 
 here, you'll find my works, I hope you like them. 
 
