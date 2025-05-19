@@ -26,10 +26,9 @@ here, you'll find my works, I hope you like them.
   
   <a href="https://www.linkedin.com/in/cristiano-epif%C3%A2nio-45ba1ba5/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/cristianofuji/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <p> <b>email</b>: cristianolopesufpe@gmail.com <br>
-         cristianojunior.professor@gmail.com </p>
+ <p> <b>email</b>: cristianolopesufpe@gmail.com </p>
          
-  <p> <b>Whatsapp</b>: +55 (81) 98407-4750 </p>
+  <p> <b>Whatsapp</b>: +40 748 320 723 </p>
     
   ![Snake animation](https://github.com/cristianoepifanio/cristianoepifanio/blob/output/github-contribution-grid-snake.svg)
 
